@@ -26,6 +26,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneBruno&layout=compact&theme=radical" alt="Most Used Languages" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=EugeneBruno&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EugeneBruno&theme=radical" alt="GitHub Streak" />
