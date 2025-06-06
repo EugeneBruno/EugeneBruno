@@ -33,8 +33,10 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EugeneBruno&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔗 Connect with Me
+---
 
 <p align="left">
   <a href="https://x.com/kingbruno1010?s=21" target="blank">
