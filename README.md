@@ -1,5 +1,5 @@
 <h1 align="center">Ayalogu Eugene Bruno</h1>
-<h3 align="center">Software Engineering Student · Frontend Developer · Lagos, Nigeria</h3>
+<h3 align="center">Software Engineering Student · Lagos, Nigeria</h3>
 
 <br/>
 
